@@ -5,7 +5,7 @@
 
 💡 Passionate about turning data into actionable insights through analysis, visualization, and modeling.  
 
-📊 **Core Skills**: Python | SQL | Power BI | Excel | Data Visualization | Statistical Modeling  
+📊 **Core Skills**: Data Analysis | Data Analytics | Python | SQL | Power BI | Excel | Data Visualization | Statistical Modeling  
 
 ## 🚀 Projects  
 - 📦 [FMCG Warehouse Inventory Optimization](https://github.com/KalyaniChikshe/fmcg-warehouse-optimization) – Python, Regression, KNN → Forecasting shipments & reducing overstock risks.  
