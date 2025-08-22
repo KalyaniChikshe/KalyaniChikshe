@@ -1,6 +1,7 @@
 # Hi, I'm Kalyani 👋  
 
-🎓 Graduate Student of Management in Information Systems  at San Diego State University | Aspiring Data & Business Analyst  
+🎓 Master’s in Information Systems (MSIS) | San Diego State University  
+💼 Data & Business Analyst | 3+ years ERP & software experience  
 
 💡 Passionate about turning data into actionable insights through analysis, visualization, and modeling.  
 
@@ -9,8 +10,8 @@
 ## 🚀 Projects  
 - 📦 [FMCG Warehouse Inventory Optimization](https://github.com/KalyaniChikshe/fmcg-warehouse-optimization) – Python, Regression, KNN → Forecasting shipments & reducing overstock risks.  
 - 🏥 [Healthcare Data Analysis](https://github.com/KalyaniChikshe/healthcare-data-analysis/tree/main) – Python, Visualization → Trends in disease, demographics, and insurance.  
-- 📈 [Financial Performance Analysis (Nike & McDonald’s)](https://github.com/KalyaniChikshe/financial-performance-analysis/tree/main) – Excel, Microsoft Powerpoint → Ratio analysis, dashboards, business insights.  
-- 📊 [Equity Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWM4YmM5MjQtMWYwNC00YzQxLTlkMWUtNTY0YmYzNWU4ZDg0IiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9&pageName=31b0f35073e365e72094) – Power BI → Interactive dashboards for DEI metrics.  
+- 📈 [Financial Performance Analysis (Nike & McDonald’s)](https://github.com/KalyaniChikshe/financial-performance-analysis/tree/main) – Excel, PowerPoint → Ratio analysis, benchmarking, business insights.  
+- 📊 [Equity Analysis Dashboard](https://github.com/KalyaniChikshe/equity-analysis-dashboard/tree/main) – Power BI, Excel, DAX → Official DEI dashboard for SDSU Strategic Plan.  
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/kalyani-chikshe-383942a1/)
