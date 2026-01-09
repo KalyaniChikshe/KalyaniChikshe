@@ -1,7 +1,7 @@
 # Hi, I'm Kalyani 👋  
 
 🎓 Master’s in Information Systems (MSIS) | San Diego State University  
-💼 Data & Business Analyst | 3+ years ERP & software experience  
+💼 Data & Business Analyst | 3+ years of Professional Experience 
 
 💡 Passionate about turning data into actionable insights through analysis, visualization, and modeling.  
 
